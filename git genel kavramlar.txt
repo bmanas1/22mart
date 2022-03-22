@@ -1,0 +1,16 @@
+GİT: Bilgisayarınızın  kendı içindeki (LOCAL deki) sanal  alanı
+
+BRANCH:Bilgisayarınızdakı  yaptıgınız calısmayı kaydettiğniz dal (hat)
+
+MERGE:Dallar arası geçiş
+
+MASTER:Ana dal(Ana hat)
+
+Version Kontrol sistemi =>. 1)Yerel Kontrol sistemi: kendi bilgisayarımızdaki (localımızdekı ) sistem
+
+Localde DEPOLAMA  Yapılmaz !!!
+
+YEREL VKS ==> Kullanımı tercih edilmez
+
+DAĞITIK VKS: (Bır sunucu ve bırcok kullanıcının  aynı anda kullandıgı sistem)Her kullanıcının  tum verilere ulasma imkanu sunar, 
+yani  her kullanıcı aynı zamanda bir  veri yedegidir. örnegin :git
